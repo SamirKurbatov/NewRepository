@@ -1,0 +1,12 @@
+.body__block {
+	margin: 0 auto;
+	max-width: 600px;
+}
+.body__list {
+width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.body__item {
+	color: red;
+}
